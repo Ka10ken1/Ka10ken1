@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Computer Science Student from Georgia
+Computer Science/Mathematics Student from Georgia
 
 
 # 💻 Tech Stack:
