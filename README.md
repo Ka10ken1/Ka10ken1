@@ -8,7 +8,7 @@ Computer Science/Mathematics Student from Georgia
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-![](https://github-profile-trophy.vercel.app/?username=Ka10ken1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Ka10ken1&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Ka10ken1&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Ka10ken1&theme=highcontrast&hide_border=false)<br/> -->
