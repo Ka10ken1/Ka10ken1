@@ -4,9 +4,7 @@ Computer Science/Mathematics Student from Georgia
 
 # 💻 Tech Stack:
 
-  <img src="https://skillicons.dev/icons?i=java,rust,python,cpp" />
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,lua,mysql,postgres" />
-  <img src="https://skillicons.dev/icons?i=linux,docker,gi,latext" />
+  <img src="https://skillicons.dev/icons?i=java,rust,python,cpp,javascript,typescript,lua,mysql,postgres,linux,docker,gi,latex" />
 
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Ka10ken1&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
