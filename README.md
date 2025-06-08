@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫
 Computer Science/Mathematics Student from Georgia
 
 
