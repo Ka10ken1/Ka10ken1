@@ -3,6 +3,7 @@ Computer Science/Mathematics Student from Georgia
 
 
 # 💻
+[Profile](https://ka10ken1.github.io/hosting/)
 
 <img src="https://skillicons.dev/icons?i=rust,java,python,cpp,javascript,typescript,lua,mysql,postgres,linux,docker,git,latex" />
 
