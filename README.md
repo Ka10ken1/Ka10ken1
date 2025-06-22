@@ -1,5 +1,8 @@
-# 💫
-Computer Science/Mathematics Student from Georgia
+# 💫 About Me
+
+🎓 **Computer Science / Mathematics Student**  
+<!-- 💡 Passionate about algorithms, systems, and solving problems with code (and a bit of mathematical mischief) -->
+
 
 
 <h1><a href="https://ka10ken1.github.io/hosting/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; font-weight:600; color:#008f68;">💼 Profile</a></h1>
