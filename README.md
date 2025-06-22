@@ -5,7 +5,7 @@
 
 
 
-<h1><a href="https://ka10ken1.github.io/hosting/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; font-weight:600; color:#008f68;">💼 Profile</a></h1>
+<h1><a href="https://hosting-ecru-two.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; font-weight:600; color:#008f68;">💼 Profile</a></h1>
 
 
 <img src="https://skillicons.dev/icons?i=rust,java,python,cpp,javascript,typescript,lua,mysql,postgres,linux,docker,git,latex" />
