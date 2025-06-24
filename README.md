@@ -1,6 +1,4 @@
-# 💫 About Me
-
-🎓 **Computer Science / Mathematics Student**  
+# 🎓 **Computer Science / Mathematics Student**  
 <!-- 💡 Passionate about algorithms, systems, and solving problems with code (and a bit of mathematical mischief) -->
 
 
