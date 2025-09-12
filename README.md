@@ -7,7 +7,6 @@ I like building server-side software for SaaS that has purpose.
 ---
 
 <h3 align="left" style="margin-top:20px;">🛠 Languages and Tools</h3>
-
 <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:flex-start;padding:10px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.03));">
   <span title="Go" style="padding:6px 10px;border-radius:10px;background:rgba(255,255,255,0.05);box-shadow:0 1px 3px rgba(0,0,0,0.06);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo"/>
@@ -36,13 +35,24 @@ I like building server-side software for SaaS that has purpose.
   <span title="Docker" style="padding:6px 10px;border-radius:10px;background:rgba(255,255,255,0.05);box-shadow:0 1px 3px rgba(0,0,0,0.06);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker logo"/>
   </span>
+
+   <span title="PostgreSQL" style="padding:6px 10px;border-radius:10px;background:rgba(255,255,255,0.05);box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
+  </span>
+  <span title="MySQL" style="padding:6px 10px;border-radius:10px;background:rgba(255,255,255,0.05);box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"/>
+  </span>
+  <span title="MongoDB" style="padding:6px 10px;border-radius:10px;background:rgba(255,255,255,0.05);box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"/>
+  </span>
+  
   <span title="Git" style="padding:6px 10px;border-radius:10px;background:rgba(255,255,255,0.05);box-shadow:0 1px 3px rgba(0,0,0,0.06);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"/>
   </span>
   <span title="Apache Kafka" style="padding:6px 10px;border-radius:10px;background:rgba(255,255,255,0.05);box-shadow:0 1px 3px rgba(0,0,0,0.06);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo"/>
   </span>
-</div>
+  </div>
 
 ---
 
