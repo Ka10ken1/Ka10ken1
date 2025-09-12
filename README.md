@@ -1,18 +1,6 @@
 <h1 align="left">hi👋, I'm Mate</h1>
 
-###
-
-<div align="left">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me :</h3>
-
-###
-
-<h4 align="left">I like building software with purpose.</h4>
+<h3 align="left">I like building software with purpose.</h4>
 
 ###
 
