@@ -2,12 +2,6 @@
   Hi 👋, I'm Mate
 </h1>
 
-<p align="center" style="font-size:1.1rem;color:#777;">
-  I like building software with purpose
-</p>
-
----
-
 ### 👨‍💻 About Me
 I like building server-side software for SaaS that has purpose.
 ---
