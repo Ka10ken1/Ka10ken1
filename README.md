@@ -33,9 +33,15 @@ I like building software with purpose
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
 
-<div align="left">
+---
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ka10ken1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka10ken1&layout=compact&theme=transparent&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=Ka10ken1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</p>
+
 
 ---
 ### 📫 Get in Touch
