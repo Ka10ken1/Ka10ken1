@@ -57,7 +57,7 @@ I like building server-side software for SaaS that has purpose.
 
 ### 📫 Get in Touch
 
-<div align="center" style="margin-top:10px;">
+<div align="left" style="margin-top:10px;">
   <a href="https://www.linkedin.com/in/mate-kopaliani-8838a7277/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn"/>
   </a>
