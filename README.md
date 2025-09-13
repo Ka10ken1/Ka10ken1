@@ -15,6 +15,6 @@ currently pursuing my **cs undergrad** @ <a href="https://www.kiu.edu.ge/" targe
   </a>
   <a href="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app">
     <img width="345" align="center" alt="Top Languages" 
-         src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Ka10ken1&include_orgs=true&show_icons=true&layout=compact&title_color=cba6f7&theme=dark&border_color=000000&hide=html,"/>
+         src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Ka10ken1&include_orgs=true&show_icons=true&layout=compact&title_color=cba6f7&theme=dark&border_color=000000&hide=html,systemverilog,lua"/>
   </a>
 </div>
