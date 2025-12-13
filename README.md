@@ -8,4 +8,3 @@ mostly interested in **back-end** and **AI/ML** technologies.
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ka10ken1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ka10ken1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka10ken1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
