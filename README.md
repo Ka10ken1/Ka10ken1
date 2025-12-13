@@ -6,5 +6,5 @@ mostly interested in **back-end** and **AI/ML** technologies.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mate-kopaliani-8838a7277)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ka10ken1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ka10ken1&theme=github_dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ka10ken1&theme=dark&hide_border=false)<br/>
