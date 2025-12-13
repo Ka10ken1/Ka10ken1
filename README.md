@@ -7,4 +7,4 @@ mostly interested in **back-end** and **AI/ML** technologies.
 
 ## GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ka10ken1&theme=github_dark)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ka10ken1&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ka10ken1&theme=github-dark-blue&hide_border=false)
